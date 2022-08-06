@@ -1,7 +1,7 @@
-# wildrydes-site-AWS-Tutorial
+# Wildrydes-site-AWS-Tutorial
 Build a Serverless Web Application
-with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito.
-Modules
+AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito.
+Modules:
 Host a static Website
 Manage Users
 Build a Serverless backend
